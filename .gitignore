@@ -1,7 +1,7 @@
-src/.depend.mk
 *.o
 *.so
-src/kaldimarshal.*
+src/*/kaldimarshal.*
+src/*/.depend.mk
 
 # editor files
 .lvimrc
